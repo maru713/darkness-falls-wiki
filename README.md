@@ -16,6 +16,9 @@
 ### クエスト
 - [クエスト進行ガイド — ティア・POI・バイオーム選択](docs/quests/quest-guide.md)
 
+### アイテム
+- [Rad Remover Mod — 入手方法・効果・スナイパーライフルとの組み合わせ](docs/items/rad-remover-mod.md)
+
 ---
 
 ## この世の地獄難易度とは
