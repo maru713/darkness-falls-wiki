@@ -11,6 +11,7 @@
 
 ### 序盤攻略
 - [序盤攻略ガイド — クラス・漁り・リソース管理](docs/early-game/survival-guide.md)
+- [ハンター中盤ガイド — Day 28〜 / Lv30前後の現在地と目標](docs/early-game/hunter-midgame.md)
 
 ### クエスト
 - [クエスト進行ガイド — ティア・POI・バイオーム選択](docs/quests/quest-guide.md)
