@@ -17,7 +17,8 @@
 - [クエスト進行ガイド — ティア・POI・バイオーム選択](docs/quests/quest-guide.md)
 
 ### アイテム
-- [Rad Remover Mod — 入手方法・効果・スナイパーライフルとの組み合わせ](docs/items/rad-remover-mod.md)
+- [Rad Remover Mod — 効果・入手難易度・暫定対策](docs/items/rad-remover-mod.md)
+- [Anti-Radiation Pills — 放射線デバフへの暫定対策](docs/items/anti-rad-pills.md)
 
 ---
 

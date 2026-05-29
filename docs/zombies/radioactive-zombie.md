@@ -95,9 +95,12 @@ POI内のゾンビ強さを決めるのは**ゲームステージ**であり、�
 
 ## 優先行動
 
-1. **Rad Remover Mod の入手**（トレーダー在庫をリストックごとに全員巡回）→ [詳細](../items/rad-remover-mod.md)
-2. **スナイパーライフルに装着**して放射能ゾンビの再生を止めながら処理
-3. Lv50に向けてレベルを上げる（放射線対応防具クラフトの解禁）
+Rad Remover Modの入手は運要素が高く確実ではない。並行して複数の方向で動く。
+
+1. **Rad Remover Mod を探す**（トレーダー巡回・POI漁り。Trader Stageが低いと在庫に出ない場合あり）→ [詳細](../items/rad-remover-mod.md)
+2. **Anti-Radiation Pillsをクラフト**（Master Scientistスキルがあれば。放射線デバフを防いで生存時間を延ばす）→ [詳細](../items/anti-rad-pills.md)
+3. Rad Removerなしの放射能ゾンビには**撤退・クエスト放棄を徹底**。無理に戦わない
+4. Lv50に向けてレベルを上げる（放射線対応防具クラフト、Science Crafting 5の解禁）
 
 ---
 
