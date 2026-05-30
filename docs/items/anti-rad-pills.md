@@ -1,6 +1,6 @@
 # Anti-Radiation Pills（抗放射線薬）
 
-> 対象バージョン：**7DTD v1.4 + Darkness Falls**
+> 対象バージョン：**7DTD v1.4（ゲームバージョン）+ Darkness Falls V6（MODバージョン）**
 
 > **情報の信頼度**：✅ 効果の方向性 / ⚠️ 持続時間・クラフト要件（v1.4での要件は未確認）
 
