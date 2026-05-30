@@ -1,6 +1,6 @@
 # Rad Remover Mod
 
-> 対象バージョン：**7DTD v1.4 + Darkness Falls V6系（⚠️ MOD正確なサブバージョンは各自確認）**
+> 対象バージョン：**7DTD v1.4 + Darkness Falls V6**
 
 > **情報の信頼度**：✅ 効果・クラフト素材 / ⚠️ 入手経路（Trader Stageや出現確率は未確認）
 
