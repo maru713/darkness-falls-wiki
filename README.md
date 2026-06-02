@@ -21,6 +21,10 @@
 - [Rad Remover Mod — 効果・入手難易度・暫定対策](docs/items/rad-remover-mod.md)
 - [Anti-Radiation Pills — 放射線デバフへの暫定対策](docs/items/anti-rad-pills.md)
 
+### ゲームシステム
+- [難易度比較表 — 全7段階のダメージ・GS・速度・ウェルネス](docs/system/difficulty.md)
+- [この世の地獄 詳細仕様 — ダメージ倍率・建築制限・パーク制限](docs/system/hell-on-earth.md)
+
 ---
 
 ## この世の地獄難易度とは
